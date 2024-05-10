@@ -5,10 +5,9 @@
     <classes>
       <class name="curs19.SeleniumLocators">
         <methods>
-          <include name="linkTextLocator"/>
+          <include name="xpathLocator"/>
           <include name="setup"/>
           <include name="tearDown"/>
-          <include name="classNameLocator"/>
         </methods>
       </class> <!-- curs19.SeleniumLocators -->
     </classes>
