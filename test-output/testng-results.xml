@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-10T17:55:48 EEST" name="Default suite" finished-at="2024-05-10T17:56:07 EEST" duration-ms="18698">
+  <suite started-at="2024-05-14T16:38:57 EEST" name="Default suite" finished-at="2024-05-14T16:39:24 EEST" duration-ms="26958">
     <groups>
     </groups>
-    <test started-at="2024-05-10T17:55:48 EEST" name="Default test" finished-at="2024-05-10T17:56:07 EEST" duration-ms="18698">
-      <class name="curs20.FindElementsExample">
-        <test-method is-config="true" signature="setup()[pri:0, instance:curs20.FindElementsExample@5fdcaa40]" started-at="2024-05-10T17:55:48 EEST" name="setup" finished-at="2024-05-10T17:56:00 EEST" duration-ms="11991" status="PASS">
+    <test started-at="2024-05-14T16:38:57 EEST" name="Default test" finished-at="2024-05-14T16:39:24 EEST" duration-ms="26958">
+      <class name="curs21.IsSelected">
+        <test-method is-config="true" signature="setup()[pri:0, instance:curs21.IsSelected@5fdcaa40]" started-at="2024-05-14T16:38:57 EEST" name="setup" finished-at="2024-05-14T16:39:11 EEST" duration-ms="14228" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testFindElements()[pri:0, instance:curs20.FindElementsExample@5fdcaa40]" started-at="2024-05-10T17:56:00 EEST" name="testFindElements" finished-at="2024-05-10T17:56:01 EEST" duration-ms="191" status="PASS">
+        <test-method signature="isSelectedTest()[pri:0, instance:curs21.IsSelected@5fdcaa40]" started-at="2024-05-14T16:39:11 EEST" name="isSelectedTest" finished-at="2024-05-14T16:39:17 EEST" duration-ms="6021" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testFindElements -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:curs20.FindElementsExample@5fdcaa40]" started-at="2024-05-10T17:56:01 EEST" name="tearDown" finished-at="2024-05-10T17:56:07 EEST" duration-ms="6386" status="PASS">
+        </test-method> <!-- isSelectedTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:curs21.IsSelected@5fdcaa40]" started-at="2024-05-14T16:39:17 EEST" name="tearDown" finished-at="2024-05-14T16:39:24 EEST" duration-ms="6541" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- curs20.FindElementsExample -->
+      </class> <!-- curs21.IsSelected -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
