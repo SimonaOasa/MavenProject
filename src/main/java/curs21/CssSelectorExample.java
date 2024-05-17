@@ -26,7 +26,7 @@ public class CssSelectorExample extends BaseTest{
 		 * 
 		 * Css selector pt atribut ID --> #
 		 * .menu_user_login --> [class="menu_user_login"]
-		 * li.menu_user_login --> li[class="menu_user_login"]
+		 * li.menu_user_login --> li[class ="menu_user_login"]
 		 * 
 		 * 
 		 * 
